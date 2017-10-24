@@ -1,5 +1,5 @@
 # Deep-Cloning
-{<img src="https://travis-ci.org/GreyArk/deep-cloning.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/GreyArk/deep-cloning] <a href="https://www.bithound.io/github/GreyArk/deep-cloning"><img src="https://www.bithound.io/github/GreyArk/deep-cloning/badges/score.svg" alt="bitHound Overall Score"></a>
+[![Build Status](https://travis-ci.org/GreyArk/deep-cloning.svg?branch=master)](https://travis-ci.org/GreyArk/deep-cloning) [![bitHound Overall Score](https://www.bithound.io/github/GreyArk/deep-cloning/badges/score.svg)](https://www.bithound.io/github/GreyArk/deep-cloning)
 
 [![NPM](https://nodei.co/npm/deep-cloning.png)](https://nodei.co/npm/deep-cloning/)
 
