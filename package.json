@@ -1,7 +1,8 @@
 {
   "name": "deep-cloning",
-  "version": "1.0.0",
-  "description": "Deep copy library for any data structure in JavaScript!",
+  "version": "1.1.0",
+  "description":
+    "Deep copy library for any kind of data structures in JavaScript!",
   "main": "index.js",
   "scripts": {
     "test": "mocha test.js",
@@ -10,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GreyArk/deep-clone.git"
+    "url": "git+https://github.com/GreyArk/deep-cloning.git"
   },
   "keywords": [
     "deep",
@@ -24,9 +25,9 @@
   "author": "Kafil Uddin Kiron <kafiluddin.kiron@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GreyArk/deep-clone/issues"
+    "url": "https://github.com/GreyArk/deep-cloning/issues"
   },
-  "homepage": "https://github.com/GreyArk/deep-clone#readme",
+  "homepage": "https://github.com/GreyArk/deep-cloning#readme",
   "devDependencies": {
     "chai": "^4.1.2",
     "coveralls": "^3.0.0",
