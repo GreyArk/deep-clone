@@ -8,7 +8,7 @@ A single method library for (deep) cloning any kind of data structure - like Obj
 ## Usage
 Use the npm package ```deep-cloning``` to your project:
 ```shell
-npm install --sade-dev deep-cloning
+npm install --save deep-cloning
 ```
 
 ```javascript
